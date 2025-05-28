@@ -1,14 +1,14 @@
 
-    body {
+    body {background-image: url(https://media.istockphoto.com/id/1223318707/es/vector/signos-del-zod%C3%ADaco-en-el-espacio.jpg?s=612x612&w=0&k=20&c=B5A8ymF0cVd2CCcapvngyFnm3mWxzcjMciZYo6RO9zw=);
       width: 80%;
       margin: 0 auto;
-      background-color: orange;
+      
     }
      form {text-align: center;
             display: inline-block;
             margin-left: 25%;
             width:50%;
-            background-color:white;
+            background-color:rgb(224, 200, 224);
             font-family: sans-serif;
             
         }
